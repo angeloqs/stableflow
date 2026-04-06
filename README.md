@@ -1,4 +1,4 @@
-# 🌟 Stableflow - Geração Dinâmica de Fluxos de Estudo com IA
+# 🌟 Stableflow - Agente IA: Gerador de Fluxos de Estudo de Estabilidade
 
 <div align="left">
 
@@ -6,12 +6,10 @@
 
 </div>
 
-Bem-vindo ao **Stableflow**! Este projeto é uma solução completa, construída para entregar uma experiência extremamente fluida e elegante. Utilizando a potência do modelo **Google Gemini**, o Stableflow elabora e retorna em tempo real (via *Streaming*) fluxos de estudos de estabilidade utilizando as mais modernas tecnologias do mercado de desenvolvimento web.
+Bem-vindo ao **Stableflow**! Este projeto é uma solução completa, construída para entregar uma experiência extremamente fluida e elegante. Utilizando a potência do modelo **Google Gemini**, o Stableflow elabora e retorna em tempo real (via *Streaming*) fluxos de estudos de estabilidade para aplicação em indústrias químicas, utilizando as mais modernas tecnologias do mercado de desenvolvimento web.
 
 ## 👥 Autores
-- Anne Almeida | [@annealmeida25](https://www.github.com/annealmeida25)
 - Angelo Queiroz | [@angeloqs](https://www.github.com/angeloqs)
-- Maju | [@Maju](https://github.com/maju555)
 
 ## 🛠️ Stack Tecnológica
 
@@ -109,7 +107,7 @@ Este projeto é fruto de uma jornada coletiva, impulsionada pelo apoio essencial
 Um agradecimento especial à **comunidade de desenvolvedores**.
 
 ### 👏 Destaques Especiais  
-- *Prof. Luan Oliveira* | https://github.com/in100tiva
+- *Prof. Nayara Valevskii* | https://www.linkedin.com/in/nayaraba/
 - *Nazaré Almeida* | https://github.com/nazare4lmeida
 
 <p align="center">
