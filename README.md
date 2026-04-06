@@ -1,5 +1,7 @@
 # 🌟 Stableflow - Agente IA: Gerador de Fluxos de Estudo de Estabilidade
 
+![stableflow-demo](https://github.com/user-attachments/assets/74c8964f-76e4-45c7-8041-4f5807c128ba)
+
 <div align="left">
 
 ![Static Badge](https://img.shields.io/badge/Status-Em_Desenvolvimento-darkgreen?style=for-the-badge)
