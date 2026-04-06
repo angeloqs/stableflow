@@ -20,7 +20,7 @@ export function AnimatedLoader() {
   useEffect(() => {
     const interval = setInterval(() => {
       setMessageIndex((prev) => (prev + 1) % loadingMessages.length);
-    }, 2500);
+    }, 5000);
 
     return () => clearInterval(interval);
   }, []);
