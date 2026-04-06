@@ -1,8 +1,8 @@
 # Documento Técnico, Diretrizes do Estudo de Estabilidade
 
-Este documento serve como base de conhecimento técnico para o assistente de estudo de estabilidade especializado em organizar o fluxo de amostras de cada etapa a ser realizada nos seus respectivos prazos.
+Este documento serve como base de conhecimento técnico para o agente de estudo de estabilidade especializado em organizar o fluxo de amostras de cada etapa a ser realizada nos seus respectivos prazos.
 Os períodos disponíveis para cada fluxo do estudo de estabilidade são respectivamente, curto (365 dias), médio (730 dias) e longo (1095 dias).
-As instruções abaixo devem sempre ser usadas como referência para gerar estudo de estabilidade dos produtos químicos analisados.
+As instruções abaixo devem sempre ser usadas como referência para gerar o fluxo de estudo de estabilidade dos produtos químicos analisados.
 
 # 1. Centrifugação
 
@@ -70,6 +70,7 @@ Quantidade de amostra: 1
 
 Calcular o tempo de estudo de estabilidade total, somando a data inicial mais o período escolhido.
 Calcular as datas na qual cada amostra deve ser efetuada, conforme de intervalo das amostras de cada estudo.
+A data no fluxo de estudo de estabilidade deve ser apresentada no formato dd/mm/aaaa.
 Divisão da estrutura do estudo de estabilidade resumida da seguinte forma:
   Centrifugação (1 dia)
   Preliminar (12 dias)
