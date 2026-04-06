@@ -2,7 +2,7 @@
 
 import { z } from 'zod'
 import { Card } from '@/components/ui/card';
-import { Atom } from 'lucide-react';
+import Image from 'next/image';
 import { Form, FormControl, FormField, FormItem, FormLabel } from '@/components/ui/form';
 import { useForm } from 'react-hook-form';
 import { zodResolver } from '@hookform/resolvers/zod';
@@ -44,7 +44,7 @@ export function StableFlowForm({ onSubmit }: StableFlowFormProps) {
 
           <div className='text-center mb-8'>
             <div className='flex items-center justify-center mb-4 mx-auto'>
-              <Atom className='w-14 h-14 text-green-500' />
+              <Image src="/sf.png" alt="StableFlow Logo" width={56} height={56} priority />
             </div>
             <h1 className='text-3xl font-bold text-green-700 dark:text-green-500 mb-2'>StableFlow</h1>
             <p className='font-medium text-green-600 dark:text-green-400'> Seu Agente IA para Estudos de Estabilidade</p>
